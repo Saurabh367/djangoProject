@@ -1,0 +1,2 @@
+# djangoProject
+Internship project
